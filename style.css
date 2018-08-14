@@ -2,3 +2,8 @@ li{
     Display: inline-block;
     margin: 0 10px;
 }
+.box{
+    background-color: lightgray;
+    width: 20px;
+    border: 22px solid grey;
+}

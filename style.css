@@ -1,7 +1,8 @@
-li{
-    float: left;
+li {
+    display: inline-block;
     margin: 0 10px;
-}
+  }
+  
 .box{
     background-color: lightgray;
     width: 20px;

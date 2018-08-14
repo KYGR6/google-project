@@ -6,11 +6,7 @@
     width: 20px;
     border: 22px solid grey;
 }
-img{
-    display: block;
-    width: 300px;
-    height: 100px
-}
+
 .header{
     display: inline;
 	direction: row;

@@ -1,7 +1,4 @@
-li {
-    display:  center inline-block;
-    margin: 0 10px;
-  }
+
   
 .mind{
     background-color: lightgray;
@@ -15,8 +12,8 @@ img{
     height: 100px
 }
 .header{
-    display: inline-flex;
-	flex-direction: row;
+    display: inline;
+	direction: row;
 	align-items: left;
 	padding: 20px;
 }

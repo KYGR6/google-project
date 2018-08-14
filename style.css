@@ -5,6 +5,7 @@ li {
   
 .box{
     background-color: lightgray;
+    display: center;
     width: 20px;
     border: 22px solid grey;
 }

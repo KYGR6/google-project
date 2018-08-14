@@ -16,3 +16,9 @@
 .types{
     color: grey;
 }
+.img src{
+display: inline;
+direction: row;
+align-item: center;
+padding: 0px;
+}

@@ -1,35 +1,110 @@
-.header{
-    display: inline-block;
-	direction: row;
+.container {
+	display: flex;
+	flex-direction: column;
+	margin: 0px;
+}
+
+.header {
+
+	display: inline-flex;
+	flex-direction: row;
 	align-items: left;
-    padding: 20px;
-    border-spacing: horizontal 20px;
+	padding: 20px;
 }
-.bloon{
-    color: grey;
-    position: absolute;
-    border: 1px gray;
-    align-content: center;
-    text-align: center;
+
+.search {
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 85%;
 }
-.src{
-   position: absolute
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    padding: 0px;
-    left: 0px;
-    right: 0px;
-    top: 15px;
-    bottom: 15px;
+
+.footer {
+	background: rgba(78, 81, 86, 0.1);
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: left;
+	padding: 20px;;
+
 }
-.a{
-    text-align: center;
-    padding: 0px;
-    position: absolute;
-    left: 0px;
-    right: 0px;
-    top: 15px;
-    bottom: 15px;
+
+img {
+	padding: 20px;
+}
+
+.search-buttons {
+	display: flex;
+	flex-direction: row;
+	padding: 10px;
+}
+
+#store {
+	padding: 0 20px 0 20px; 
+	text-decoration: none;
+	color: black;
+}
+
+#gmail {
+	padding: 0 20px 0 80%;
+	text-decoration: none;
+	color: black;
+}
+
+#images {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: black;
+}
+
+#advertising {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: grey;
+}
+
+#business {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: grey;
+}
+
+#privacy {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: grey;
+}
+
+#terms {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: grey;
+}
+
+#search-button {
+	padding: 0 20px 0 0;
+	text-decoration: none;
+	color: black;
+}
+
+textarea {
+	width: 500px;
+	box-shadow: 2px 2px 2px 0px #929caa;
+}
+
+#settings {
+	text-decoration: none;
+	color: grey;
+}
+
+#about {
+	text-decoration: none;
+	color: black;
+}
+
+#im-feeling-lucky {
+	text-decoration: none;
+	color: black;
 }

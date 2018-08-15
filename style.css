@@ -18,9 +18,10 @@
     align-content: center;
 }
 .img src{
-    position: relative;
-    left: 30px;
-    down: 20px;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
   
 }
 

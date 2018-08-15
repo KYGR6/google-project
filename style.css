@@ -22,7 +22,8 @@ direction: row;
 align-item: center;
 padding: 0px;
 }
-.search{
+
+#search{
     position: fixed;
     display: inline;
 }

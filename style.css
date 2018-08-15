@@ -1,18 +1,11 @@
-.mind{
-    background-color: lightgray;
-    display: center;
-    width: 20px;
-    border: 22px solid grey;
-}
-
 .header{
-    display: inline;
+    display: inline-block;
 	direction: row;
 	align-items: left;
     padding: 20px;
-    border-spacing: 20px;
+    border-spacing: horizontal 20px;
 }
-.types{
+.bloon{
     color: grey;
     position: absolute;
     border: 1px gray;

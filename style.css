@@ -15,6 +15,8 @@
 }
 .types{
     color: grey;
+    position: absolute;
+    border: 1px gray;
 }
 .img src{
 display: inline;

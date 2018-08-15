@@ -17,6 +17,7 @@
     position: absolute;
     border: 1px gray;
     align-content: center;
+    text-align: center;
 }
 .img{
     display: block;

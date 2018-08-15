@@ -17,6 +17,7 @@
     color: grey;
     position: absolute;
     border: 1px gray;
+    align-content: center;
 }
 .img src{
 display: inline;

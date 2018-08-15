@@ -13,12 +13,12 @@
     text-align: center;
 }
 .src{
+   position: absolute
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
     padding: 0px;
-    position: absolute;
     left: 0px;
     right: 0px;
     top: 15px;

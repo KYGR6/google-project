@@ -9,7 +9,8 @@
     display: inline;
 	direction: row;
 	align-items: left;
-	padding: 20px;
+    padding: 20px;
+    border-spacing: 20px per-item;
 }
 .types{
     color: grey;

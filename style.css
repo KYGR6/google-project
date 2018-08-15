@@ -4,12 +4,14 @@
 	margin: 0px;
 }
 
-.header {
+.header:hover  {
 
 	display: inline-flex;
 	flex-direction: row;
 	align-items: left;
     padding: 20px;
     width: 10px;
+
 }
+
 

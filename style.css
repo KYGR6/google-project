@@ -21,4 +21,10 @@
 }
 .a{
     text-align: center;
+    padding: 0px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 15px;
+    bottom: 15px;
 }

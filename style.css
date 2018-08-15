@@ -18,9 +18,12 @@
     align-content: center;
 }
 .img src{
+    position: relative;
+    left: 30px;
+    down: 20px
 display: inline;
 direction: row;
-align-item: center;
+align-items: center;
 padding: 0px;
 }
 

@@ -10,7 +10,7 @@
 	direction: row;
 	align-items: left;
     padding: 20px;
-    border-spacing: 20px per-item;
+    border-spacing: 20px;
 }
 .types{
     color: grey;

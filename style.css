@@ -5,18 +5,18 @@
     align-content: center;
     display: inline;
     position: absolute;
-    padding:100%;
+    padding-top:50px;
     Border:0;
     margin:auto;
     width:100%;
 }
-.header,#click{
+.header{
     element:center;
     object-position: center;
     align-content: center;
    display: inline-block;
    position: absolute;
-   padding: 100%;
+   padding-bottom: 80px;
    border:0;
    color: transparent;
    margin: auto;
@@ -24,7 +24,7 @@
 
 
 }
-.footer,#click{
+.footer{
     element:center;
     object-position: center;
     align-content: center;

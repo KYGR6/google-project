@@ -20,7 +20,7 @@
    border:0;
    color: transparent;
    margin: auto;
-   width:500px;
+   width:max-content;
 
 
 }
@@ -35,7 +35,7 @@
     border-color:transparent;
     background-color: gray;
     border-width: relative;
-    width:500px;
+    width:max-content;
 }
 .searchbar{
     element:center;
@@ -47,7 +47,7 @@
     padding: 100%;
     margin: auto;
     height: auto;
-    width: 500px;
+    width: 50px;
     left:0px;
     outline: none;
     background-position: initial initial;
@@ -64,7 +64,7 @@
     left: 412px;
     margin:auto;
     top:83px;
-    width: 500px;
+    width: 111px;
     border-color: gray;
     background-color: #e7e7e7; color: black;
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);

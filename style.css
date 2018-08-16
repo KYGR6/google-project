@@ -5,3 +5,24 @@
     Border:0;
     margin:0;
 }
+.header{
+   display: inline;
+   padding: 0;
+   border:0;
+   color:  
+}
+.footer{
+
+}
+.searchbar{
+    position: absolute;
+    background-color: transparent;
+    color: transparent;
+    padding: 0%;
+    margin: 0%;
+    height: auto;
+    width: 100%;
+    left:0px;
+    outline: none;
+    background-position: initial initial;
+}

@@ -24,6 +24,13 @@
 
 
 }
+
+.header, ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+
 .footer{
     element:center;
     object-position: center;

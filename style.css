@@ -10,7 +10,7 @@
     margin:auto;
     width:100%;
 }
-.header{
+.top-nav{
     element:center;
     object-position: center;
     align-content: center;
@@ -25,18 +25,20 @@
 
 }
 
-.header,#header1, ul {
+.top-nav,#header1, ul {
+    float: left;
     list-style-type: none;
     margin: 0;
     padding:0;
 }
-.footer,#footer2, ul {
+.bottom-nav,#footer2, ul {
+    float: left;
     list-style-type: none;
     margin: 0;
     padding:0;
 }
 
-.footer{
+.bottom-nav{
     element:center;
     object-position: center;
     align-content: center;

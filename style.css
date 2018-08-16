@@ -1,6 +1,4 @@
 .google-logo{
-    
-    element:center;
     object-position: center;
     align-content: center;
     display: inline;
@@ -8,10 +6,8 @@
     padding-top:50px;
     Border:0;
     margin:auto;
-    width:100%;
 }
 .top-nav{
-    element:center;
     object-position: center;
     align-content: center;
    display: inline-block;
@@ -62,7 +58,6 @@
 
 .navbar{
     font-family: Arial,sans-serif;
-    element:center;
     object-position: center;
     align-content: center;
     display: inline-block;
@@ -78,9 +73,6 @@
 }
 .searchbar{
     box-sizing: border-box
-    element:center;
-    object-position: center;
-    align-content: center;
     position: absolute;
     background-color: transparent;
     color: transparent;
@@ -95,7 +87,6 @@
 #buttons:hover{
     height: 36px;
     line-height: 27px;
-    element:center;
     display:none;
     font-family: Arial, sans-serif;
     overflow: hidden;

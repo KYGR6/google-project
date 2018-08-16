@@ -26,30 +26,55 @@
 }
 
 .top-nav,#header1, ul {
+    font-family: Arial,sans-serif;
     float: left;
     list-style-type: none;
     margin: 0;
     padding:0;
 }
-.bottom-nav,#footer2, ul {
+.top-nav,#header2, ul {
+    font-family: Arial,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+.navbar,#footer1, ul {
+    font-family: Arial,sans-serif;
     float: left;
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+.navbar,#footer2, ul {
+    font-family: Arial,sans-serif;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    float: right;
     list-style-type: none;
     margin: 0;
     padding:0;
 }
 
-.bottom-nav{
+.navbar{
+    font-family: Arial,sans-serif;
     element:center;
     object-position: center;
     align-content: center;
     display: inline-block;
-    position: absolute;
     padding:100%;
     margin:auto;
     border-color:transparent;
     background-color: gray;
     border-width: relative;
-    width:100%;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 .searchbar{
     element:center;

@@ -1,4 +1,5 @@
 .google-logo{
+    object-position: center;
     align-content: center;
     display: inline;
     position: absolute;
@@ -7,6 +8,7 @@
     margin:0;
 }
 .header{
+    object-position: center;
     align-content: center;
    display: inline-block;
    position: absolute;
@@ -15,6 +17,7 @@
    color: transparent;
 }
 .footer{
+    object-position: center;
     align-content: center;
     display: inline-block;
     position: absolute;
@@ -26,6 +29,7 @@
 
 }
 .searchbar{
+    object-position: center;
     align-content: center;
     position: absolute;
     background-color: transparent;

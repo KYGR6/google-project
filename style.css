@@ -7,7 +7,7 @@
     Border:0;
     margin:0;
 }
-.header{
+.header,#click{
     object-position: center;
     align-content: center;
    display: inline-block;
@@ -16,7 +16,7 @@
    border:0;
    color: transparent;
 }
-.footer{
+.footer,#click{
     object-position: center;
     align-content: center;
     display: inline-block;

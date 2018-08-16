@@ -20,42 +20,20 @@
 
 
 }
-
-.top-nav,#header1, ul{
+.top-nav, ul {
     font-family: Arial,sans-serif;
-    float: left;
-    list-style-type: none;
-    left: 210px;
-    margin: 0;
-    padding:0;
-}
-.top-nav,#header2, ul {
-    font-family: Arial,sans-serif;
-    text-decoration: none;
-    text-align: center;
-    display: block;
-    float: right;
-    right:210px;
-    list-style-type: none;
-    margin: 0;
-    padding:0;
-}
-.navbar,#footer1, ul {
-    font-family: Arial,sans-serif;
-    float: left;
+    float: right left;
     list-style-type: none;
     left:210px;
     margin: 0;
     padding:0;
 }
-.navbar,#footer2, ul {
+
+.navbar, ul {
     font-family: Arial,sans-serif;
-    text-decoration: none;
-    text-align: center;
-    display: block;
-    float: right;
+    float: right left;
     list-style-type: none;
-    right:210px;
+    left:210px;
     margin: 0;
     padding:0;
 }

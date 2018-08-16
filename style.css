@@ -8,6 +8,7 @@
     margin:auto;
 }
 .top-nav{
+    list-style-type: none;
     object-position: center;
     align-content: center;
    display: inline-block;
@@ -28,17 +29,8 @@
     margin: 0;
     padding:0;
 }
-
-.navbar, ul {
-    font-family: Arial,sans-serif;
-    float: right left;
-    list-style-type: none;
-    left:210px;
-    margin: 0;
-    padding:0;
-}
-
 .navbar{
+    list-style-type: none;
     font-family: Arial,sans-serif;
     object-position: center;
     align-content: center;
@@ -53,6 +45,17 @@
     bottom: 0;
     width: 100%;
 }
+
+.navbar, ul {
+    font-family: Arial,sans-serif;
+    float: right left;
+    list-style-type: none;
+    left:210px;
+    margin: 0;
+    padding:0;
+}
+
+
 .searchbar{
     box-sizing: border-box
     position: absolute;

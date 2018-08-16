@@ -7,13 +7,6 @@
     Border:0;
     margin:auto;
 }
-
-.float-left{
-    float: left;
-}
-.float-right{
-    float: right
-}
 .top-nav{
     list-style-type: none;
    display: inline-block;
@@ -26,7 +19,6 @@
 
 
 }
-
 .navbar{
     list-style-type: none;
     font-family: Arial,sans-serif;
@@ -41,8 +33,12 @@
     bottom: 0;
     width: 100%;
 }
-
-
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right
+}
 .searchbar{
     box-sizing: border-box
     position: absolute;

@@ -8,7 +8,7 @@
     padding:100%;
     Border:0;
     margin:auto;
-    width:500px;
+    width:100%;
 }
 .header,#click{
     element:center;
@@ -20,7 +20,7 @@
    border:0;
    color: transparent;
    margin: auto;
-   width:max-content;
+   width:100%;
 
 
 }
@@ -35,7 +35,7 @@
     border-color:transparent;
     background-color: gray;
     border-width: relative;
-    width:max-content;
+    width:100%;
 }
 .searchbar{
     element:center;

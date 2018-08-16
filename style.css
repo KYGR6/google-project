@@ -25,7 +25,12 @@
 
 }
 
-.header, ul {
+.header,#header1, ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+.footer,#footer2, ul {
     list-style-type: none;
     margin: 0;
     padding:0;

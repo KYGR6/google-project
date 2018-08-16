@@ -42,3 +42,16 @@
     outline: none;
     background-position: initial initial;
 }
+#buttons{
+    display:none;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+    text-align: center;
+    z-index: 50;
+    height: 34px;
+    position: absolute;
+    left: 412px;
+    margin:0px;
+    top:83px;
+    width: 111px;
+}

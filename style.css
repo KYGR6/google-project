@@ -81,7 +81,7 @@ li{
     margin: 0px;
     padding: 50px;
 }
-.navbar1,navbar2,navbar3,navbar4{
-    padding-left: 15px;
-    padding-right: 15px; 
+.jab{
+    font-family: Arial, sans-serif;
+    background-color: gray;
 }
